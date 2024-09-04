@@ -54,7 +54,7 @@ body {
 .main {
     min-height: 100vh;
     background: url('background.jpg') no-repeat;
-    background-size: cover;
+    background-size: 100%;
     background-position: center;
     pointer-events: auto;
     transition: .3s ease-in-out;
@@ -204,7 +204,7 @@ body {
     left: -50%;
     width: 100%;
     background: url('background 2.jpg') no-repeat;
-    background-size: cover;
+    background-size: 100%;
     background-position: center;
     display: flex;
     justify-content: center;
@@ -460,7 +460,7 @@ body {
     .main {
         min-height: 100vh;
         background: url('background.jpg') no-repeat;
-        background-size: cover;
+        background-size: 100%;
         background-position: center;
         pointer-events: auto;
         transition: .3s ease-in-out;
@@ -610,7 +610,7 @@ body {
         left: -50%;
         width: 100%;
         background: url('background 2.jpg') no-repeat;
-        background-size: cover;
+        background-size: 100%;
         background-position: center;
         display: flex;
         justify-content: center;
@@ -867,7 +867,7 @@ body {
         .main {
             min-height: 100vh;
             background: url('background.jpg') no-repeat;
-            background-size: cover;
+            background-size: 100%;
             background-position: center;
             pointer-events: auto;
             transition: .3s ease-in-out;
@@ -1017,7 +1017,7 @@ body {
             left: -50%;
             width: 100%;
             background: url('background 2.jpg') no-repeat;
-            background-size: cover;
+            background-size: 100%;
             background-position: center;
             display: flex;
             justify-content: center;
@@ -1276,7 +1276,7 @@ body {
             .main {
                 min-height: 100vh;
                 background: url('background.jpg') no-repeat;
-                background-size: cover;
+                background-size: 100%;
                 background-position: center;
                 pointer-events: auto;
                 transition: .3s ease-in-out;
@@ -1426,7 +1426,7 @@ body {
                 left: -50%;
                 width: 100%;
                 background: url('background 2.jpg') no-repeat;
-                background-size: cover;
+                background-size: 100%;
                 background-position: center;
                 display: flex;
                 justify-content: center;
@@ -1684,7 +1684,7 @@ body {
                 .main {
                     min-height: 100vh;
                     background: url('background.jpg') no-repeat;
-                    background-size: cover;
+                    background-size: 100%;
                     background-position: center;
                     pointer-events: auto;
                     transition: .3s ease-in-out;
@@ -1834,7 +1834,7 @@ body {
                     left: -50%;
                     width: 100%;
                     background: url('background 2.jpg') no-repeat;
-                    background-size: cover;
+                    background-size: 100%;
                     background-position: center;
                     display: flex;
                     justify-content: center;
@@ -2093,7 +2093,7 @@ body {
                     .main {
                         min-height: 100vh;
                         background: url('background.jpg') no-repeat;
-                        background-size: cover;
+                        background-size: 100%;
                         background-position: center;
                         pointer-events: auto;
                         transition: .3s ease-in-out;
@@ -2243,7 +2243,7 @@ body {
                         left: -50%;
                         width: 100%;
                         background: url('background 2.jpg') no-repeat;
-                        background-size: cover;
+                        background-size: 100%;
                         background-position: center;
                         display: flex;
                         justify-content: center;
@@ -2502,7 +2502,7 @@ body {
                         .main {
                             min-height: 100vh;
                             background: url('background.jpg') no-repeat;
-                            background-size: cover;
+                            background-size: 100%;
                             background-position: center;
                             pointer-events: auto;
                             transition: .3s ease-in-out;
@@ -2652,7 +2652,7 @@ body {
                             left: -50%;
                             width: 100%;
                             background: url('background 2.jpg') no-repeat;
-                            background-size: cover;
+                            background-size: 100%;
                             background-position: center;
                             display: flex;
                             justify-content: center;
