@@ -1,58 +1,58 @@
 let questions = [
     {
         numb: 1,
-        question: "What is blablabla?",
-        answer: "B. bbbbb",
+        question: "I feel the most grateful when",
+        answer: "D. I get moment to relax and enjoy peace",
         options: [
-            "A. aaaaa",
-            "B. bbbbb",
-            "C. ccccc",
-            "D. ddddd",
+            "A. I achieve my personal goal",
+            "B. I receive support from loved ones",
+            "C. I help someone in need",
+            "D. I get moment to relax and enjoy peace",
         ]
 
     },
     {
         numb: 2,
-        question: "What does aaaaa means?",
-        answer: "C. ccccc 2",
+        question: "I'm grateful for the people who",
+        answer: "B. Stand by me through difficult times",
         options: [
-            "A. aaaaa 2",
-            "B. bbbbb 2",
-            "C. ccccc 2",
-            "D. ddddd 2"
+            "A. Inspire me to be better",
+            "B. Stand by me through difficult times",
+            "C. Encourage me to take care of myself",
+            "D. Share their wisdom and experiences"
         ]
     },
     {
         numb: 3,
-        question: "What does bbbbb means?",
-        answer: "D. ddddd 3",
+        question: "I appreciate the things that",
+        answer: "C. Help me grow and learn",
         options: [
-            "A. aaaaa 3",
-            "B. bbbbb 3",
-            "C. ccccc 3",
-            "D. ddddd 3"
+            "A. Bring joy and fun to my life",
+            "B. Provide comfort and safety",
+            "C. Help me grow and learn",
+            "D. Remind me of happy times"
         ]
     },
     {
         numb: 4,
-        question: "What does ccccc means?",
-        answer: "B. bbbbb 4",
+        question: "I feel blessed to have",
+        answer: "D. Great memories",
         options: [
-            "A. aaaaa 4",
-            "B. bbbbb 4",
-            "C. ccccc 4",
-            "D. ddddd 4"
+            "A. Friends who understand me",
+            "B. A family that supports me",
+            "C. The ability to love myself",
+            "D. Great memories"
         ]
     },
     {
         numb: 5,
-        question: "What does ddddd means?",
-        answer: "A. aaaaa 5",
+        question: "After finishing the quiz, I'm more aware of",
+        answer: "D. The blessings I should protect",
         options: [
-            "A. aaaaa 5",
-            "B. bbbbb 5",
-            "C. ccccc 5",
-            "D. ddddd 5"
+            "A. The good things that I have",
+            "B. The impact of gratitude on my mood",
+            "C. The small things I often ignore",
+            "D. The blessings I should protect"
         ]
     },
 ]
