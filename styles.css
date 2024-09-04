@@ -58,6 +58,7 @@ body {
     background-position: center;
     height: 100vh;
     right: -50%;
+    overflow: hidden;
     pointer-events: auto;
     transition: .3s ease-in-out;
 }
@@ -210,6 +211,7 @@ body {
     background-position: center;
     height: 100vh;
     right: -50%;
+    overflow: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -468,6 +470,7 @@ body {
         background-position: center;
         height: 100vh;
         right: -50%;
+        overflow: hidden;
         pointer-events: auto;
         transition: .3s ease-in-out;
     }
@@ -619,6 +622,7 @@ body {
         background-position: center;
         height: 100vh;
         right: -50%;
+        overflow: hidden;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -878,6 +882,7 @@ body {
             background-position: center;
             height: 100vh;
             right: -50%;
+            overflow: hidden;
             pointer-events: auto;
             transition: .3s ease-in-out;
         }
@@ -1029,6 +1034,7 @@ body {
             background-position: center;
             height: 100vh;
             right: -50%;
+            overflow: hidden;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -1290,6 +1296,7 @@ body {
                 background-position: center;
                 height: 100vh;
                 right: -50%;
+                overflow: hidden;
                 pointer-events: auto;
                 transition: .3s ease-in-out;
             }
@@ -1441,6 +1448,7 @@ body {
                 background-position: center;
                 height: 100vh;
                 right: -50%;
+                overflow: hidden;
                 display: flex;
                 justify-content: center;
                 align-items: center;
@@ -1701,6 +1709,7 @@ body {
                     background-position: center;
                     height: 100vh;
                     right: -50%;
+                    overflow: hidden;
                     pointer-events: auto;
                     transition: .3s ease-in-out;
                 }
@@ -1852,6 +1861,7 @@ body {
                     background-position: center;
                     height: 100vh;
                     right: -50%;
+                    overflow: hidden;
                     display: flex;
                     justify-content: center;
                     align-items: center;
@@ -2113,6 +2123,7 @@ body {
                         background-position: center;
                         height: 100vh;
                         right: -50%;
+                        overflow: hidden;
                         pointer-events: auto;
                         transition: .3s ease-in-out;
                     }
@@ -2265,6 +2276,7 @@ body {
                         background-position: center;
                         height: 100vh;
                         right: -50%;
+                        overflow: hidden;
                         display: flex;
                         justify-content: center;
                         align-items: center;
@@ -2526,6 +2538,7 @@ body {
                             background-position: center;
                             height: 100vh;
                             right: -50%;
+                            overflow: hidden;
                             pointer-events: auto;
                             transition: .3s ease-in-out;
                         }
@@ -2677,6 +2690,7 @@ body {
                             background-position: center;
                             height: 100vh;
                             right: -50%;
+                            overflow: hidden;
                             display: flex;
                             justify-content: center;
                             align-items: center;
